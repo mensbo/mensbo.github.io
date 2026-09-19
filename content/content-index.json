@@ -1,0 +1,13 @@
+{
+  "projects": [
+    "orbital-playground.md",
+    "wave-field.md",
+    "fluid-lab.md"
+  ],
+  "tutorials": [
+    "integrator.md",
+    "wave-equation.md",
+    "visualization.md",
+    "monte-carlo.md"
+  ]
+}
